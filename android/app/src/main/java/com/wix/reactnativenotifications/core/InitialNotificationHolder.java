@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.wix.reactnativenotifications.core.notification.PushNotificationProps;
 
